@@ -6,8 +6,8 @@ module.exports = {
       {
         email: "admin@gmail.com",
         password: "12345",
-        firstName: "Admin",
-        lastName: "QTTech",
+        firstName: "Toan",
+        lastName: "NguyenQuang",
         address: "VietNam",
         gender: 1,
         typeRole: "ROLE",
